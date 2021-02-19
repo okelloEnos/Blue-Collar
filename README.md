@@ -5,5 +5,7 @@ Demo:
 
 [![Blue Collar App](https://img.youtube.com/vi/9ox7isuoZGY/3.jpg)](https://www.youtube.com/watch?v=9ox7isuoZGY)
 
+<!--[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=9ox7isuoZGY/3.jpg)](https://www.youtube.com/watch?v=9ox7isuoZGY "Everything Is AWESOME")
+
 
 
