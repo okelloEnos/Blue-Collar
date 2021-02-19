@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blue Collar</string>
+    <string name="No_network">Connection Lost...</string>
+</resources>

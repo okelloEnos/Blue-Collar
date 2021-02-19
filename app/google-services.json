@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258425252176",
+    "firebase_url": "https://bluecollar-1411e-default-rtdb.firebaseio.com",
+    "project_id": "bluecollar-1411e",
+    "storage_bucket": "bluecollar-1411e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258425252176:android:fb212842b32ee65569a455",
+        "android_client_info": {
+          "package_name": "com.okellosoftwarez.bluecollar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258425252176-1a5ri89grmpc4eo2qvj7r6fe061v3bi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWkjciGCGKGfLBmHjn0IoYXWFtXr8TtK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258425252176-1a5ri89grmpc4eo2qvj7r6fe061v3bi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
